@@ -1,2 +1,2 @@
-# OneShot External Site (OSES)
-The repository for the OneShot External Site.
+# OneShot Discord Server (OSDS) Website
+The repository for the OneShot Discord's Website.
