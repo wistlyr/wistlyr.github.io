@@ -1,4 +1,4 @@
-baseURL = 'https://wm.sysware.plus'
+baseURL = 'https://osds.0ccu.lt'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
 title = 'OneShot Discord'
@@ -76,11 +76,18 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   [languages.en]
     title = 'OneShot Discord'
     languageName = 'English'
-    weight = 2
+    weight = 3
   [languages.ru]
     title = 'OneShot Discord'
     languageName = 'Русский'
-    weight = 1
+    weight = 2
     [languages.ru.params]
+      title = 'Внешний сайт OneShot'
+      description = 'Внешний сайт, размещенный для Discord сервера OneShot.'
+  [languages.zh-hant]
+    title = 'OneShot Discord'
+    languageName = '漢語'
+    weight = 2
+    [languages.zh-zant.params]
       title = 'Внешний сайт OneShot'
       description = 'Внешний сайт, размещенный для Discord сервера OneShot.'
